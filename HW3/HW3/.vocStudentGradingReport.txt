@@ -1,0 +1,32 @@
+
+[Executed at: Wed Dec 7 13:55:16 PST 2022]
+
+HW3 Report
+Programming language: Python3
+==> Begin grading
+
+Wed 07 Dec 2022 01:53:39 PM PST
+(gaussian hidden test) accuracy: 97.20
+(xor hidden test) accuracy: 94.00
+(circle hidden test) accuracy: 93.60
+(spiral hidden test) accuracy: 96.00
+==> Stop grading
+Wed 07 Dec 2022 01:55:01 PM PST
+==> Score report
+Raw avg accuracy: 95.19999999999999
+Total score (according to hidden data grading scale): 100.0
+==> End score report
+
+gauss raw acc: 97.2
+gauss acc mapped to grading score: 100
+xor raw acc: 94.0
+xor acc mapped to grading score: 100
+circle raw acc: 93.6
+circle acc mapped to grading score: 100
+spiral raw acc: 96.0
+spiral acc mapped to grading score: 100
+
+
+
+
+

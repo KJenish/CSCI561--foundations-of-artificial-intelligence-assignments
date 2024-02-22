@@ -1,0 +1,28 @@
+
+[Executed at: Wed Nov 9 18:49:34 PST 2022]
+
+Programming language...
+PY3
+
+Wed 09 Nov 2022 06:37:33 PM PST
+
+Playing with qlearning_player...
+Wed 09 Nov 2022 06:37:33 PM PST
+=====Summary=====
+You play as Black Player | Win: 9 | Lose: 1 | Tie: 0
+You play as White Player | Win: 10 | Lose: 0 | Tie: 0
+
+Playing with championship_player...
+Wed 09 Nov 2022 06:41:31 PM PST
+=====Summary=====
+You play as Black Player | Win: 0 | Lose: 10 | Tie: 0
+You play as White Player | Win: 0 | Lose: 10 | Tie: 0
+
+Result:
+qlearning win rate: 0.95
+championship win rate: 0
+Final score: 5
+
+Mission Completed.
+Wed 09 Nov 2022 06:49:23 PM PST
+
